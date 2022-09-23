@@ -1,0 +1,182 @@
+<<!DOCTYPE html>
+<html>
+<head>
+   <title>Mina Amin | Home</title>  
+</head>
+<body>
+
+   <h1> Hi, My Name is </h1>
+   <h2> Mina </h2>
+   <h3> Welcome to my website</h3>
+   <style type="text/css">
+      h2{
+         color:  blue;     
+   
+      }
+      h2{text-decoration: underline blue;}
+   </style>
+   <nav>
+      Stories
+      &
+      Contacts
+   </nav>
+   <nav>
+      <a href=""> Stories </a>
+      <a href=""> Contact</a>
+      
+   </nav>
+
+   <h3> I like programming</h3>
+   <h4> This image represents me while learing to code</h4>
+   <p>
+
+      <!--Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+   tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+   quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+   consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+   cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+   proident, sunt in culpa qui officia deserunt mollit anim id est laborum.-->
+</p>
+
+   <img src="http://images6.fanpop.com/image/photos/34300000/Kitten-cats-34352405-1600-1200.jpg"> 
+   <a href="http://images6.fanpop.com/image/photos/34300000/Kitten-cats-34352405-1600-1200.jpg">CatLove</a>
+<body>
+   <h1> My hobbies are </h1>
+   <ul>
+
+      <li> <a href="#"> Reading</a></li>
+      <li> <a href="#"> cooking</a></li>
+      <li> <a href="#"> Taking long walks</a></li>
+      <table width="50%" border= solid>
+         <tr>
+            <th>1st hobby</th>
+            <th>2nd hobby</th>
+            <th>3rd hobby</th>
+         </tr>
+         <tr>
+            <td>Walks</td>
+            <td>cook</td>
+            <td>read</td>
+      </tr>
+   </table>
+
+</body>
+  <style>
+      body{
+         background-color: lightgrey;}
+      {text-transform: capitalize;}
+</style>
+<body>
+   <iframe width="500"  height="300"
+   src="https://www.youtube.com/embed/MEjU5BkGm9o?start=5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+      
+   </iframe>
+
+
+<div id="div1">
+<p>I love reading </p>
+
+<div id="div2">
+<p id="Mina's list">Here are some of my favorite books:</p>
+<style type="text/css">
+   h1{
+      color:  blue;
+   }
+#Mina list{
+   color:  green;
+}
+</style>
+
+<p id="Mina list"> Here are some of my favorite books</p>
+</style>
+<o1>
+   <li class="favList">The Kite Runner</li>
+   <li class="favlist">Atomic Habits</li>
+   <li> 5 languages of love</li>
+
+<style type="text/css">
+   favList{
+      color: red;
+   }
+#Mina list{
+   color: green;
+}
+</style>
+<div>
+<div>
+<div{
+   background-color:red;
+   width:200px,height:250px
+}
+>
+<h1>Cats</span> <span>Are</span> </span>Awesome! </h1>
+<h1{
+   color:green;
+   font-size:60pt;
+   font-family:ariel;
+   }
+   >
+   <style type="text/css">
+      #div1{
+         background-color: red;
+      }
+      #div2{
+         background-color: yellow;
+      }
+    #div3{
+      background-color: blue;
+    }
+
+    #div4{
+      background-color: green;
+    }
+
+    #div1, #div2, #div3, #div4 {
+      border: dashed;
+    }
+
+    <form>
+    <input type = "text"name = "FullName" placeholder= "full name">
+ </style>
+ <body>
+   <form>
+      <h3>creating a form using HTML</h3>
+      First Name: <br>
+      <input type="text" name="Firstname"> <br>
+      Last Name: <br>
+      <input type="text" name="lastname"> <br>
+       class: <br>
+      <input type="text" name="class"> <br>
+       gender: <br>
+      <input type="radio" name="gender" value="Female">
+         Female <br>
+      <input type="radio" name="gender" value="Male">
+         Male <br>
+         <input type="button" name="submit" value="submit">
+      </form>
+   
+  
+<hover
+ #box1 {
+      background-color:red
+   }
+   #box1:hover{
+      background-color: green;
+   }
+   input[type=button] ; hover{
+      border: solid;
+      background-color: rgb(1,200,1)
+   }]
+   >
+   <focus
+   input[type=text]:focus {
+      background-color: rgb(0,330,0
+      color:purple
+      width: 100%
+      transition:3s;
+      >
+
+
+
+   
+</html>
